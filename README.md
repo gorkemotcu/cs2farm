@@ -1,6 +1,6 @@
 # CS2 Farm Bot ve Yönetim Sistemi
 
-Bu proje, CS2 oyununda tam otomatik XP farming, drop talep etme ve ekran görüntüsü alma gibi işlemleri yapabilen bir sistemdir. YOLOv8 tabanlı görüntü işleme kullanarak rakipleri tespit eder, hedefler ve yüksek hassasiyetle ateş eder.
+Bu proje, CS2 oyununda tam otomatik XP farming yapmak için geliştirilmeye çalışılan bir programdır ve henüz eğitim amaçlıdır. YOLOv8 tabanlı görüntü işleme kullanarak rakipleri tespit eder, hedefler ve yüksek hassasiyetle ateş eder.
 
 ## Özellikler
 
